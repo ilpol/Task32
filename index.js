@@ -14,4 +14,5 @@ const end = new Date(2020, 7, 17, 12);
 const daysCount = differenceInCalendarDays(now, end);
 
 console.log(getMessage(daysCount));
+
 // end
